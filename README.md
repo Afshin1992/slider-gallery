@@ -1,0 +1,1 @@
+Slider and Gallery Using pure HTML & CSS.
